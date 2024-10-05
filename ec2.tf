@@ -8,4 +8,4 @@ resource "aws_instance" "myec2" {
     subnet_id = "subnet-02d484e6a83d7ce5d"
 }
 
-abc
+abc. Hello hi
