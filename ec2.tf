@@ -7,3 +7,5 @@ resource "aws_instance" "myec2" {
     instance_type = "t2.micro"
     subnet_id = "subnet-02d484e6a83d7ce5d"
 }
+
+abc
